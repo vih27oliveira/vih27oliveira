@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @vih27oliveira
-- 🌱 I’m currently learning programming 
-- 📫 Contact me at gmail vish271523@gmail.com
-
-
 - 👋 Olá, sou @vih27oliveira
 - 🌱 Atualmente estou aprendendo Programação
 - 📫 Entrar em contato comigo pelo gmail vish271523@gmail.com 
